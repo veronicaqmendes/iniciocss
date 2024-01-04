@@ -1,0 +1,19 @@
+body{
+    background-color: #fafafa;
+
+}
+.caixa{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+}
+.qualquercoisa{
+    background-color: green;
+    height: 200px;
+    width: 200px;
+}
+.reggae{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    }
